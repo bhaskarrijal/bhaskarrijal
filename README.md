@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/bhaskarijal" target="blank"><img src="https://img.shields.io/twitter/follow/bhaskarijal?logo=twitter&style=for-the-badge" alt="bhaskarijal" /></a> </p>
 
-- 📝 I regularly write articles on [https://blog.bhaskarrijal.com.np](blog.bhaskarrijal.com.np)
+- 📝 I regularly write articles on <a href="https://blog.bhaskarrijal.com.np" target="blank">(blog.bhaskarrijal.com.np)</a>
 
 - 📫 How to reach me **mail@bhaskarrijal.com.np**
 
