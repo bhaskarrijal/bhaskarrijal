@@ -26,3 +26,4 @@
 🔨 **[JSON Utils](https://github.com/bhaskarrijal/json-utils)** - few utility scripts for projects with massive number of JSON files<br/>
 🌕 **[LunaQuake](http://lunaquake.vercel.app)** - view the moon and study or learn about the moon's seismic history<br/>
 🖥️ **[ilovegpu](https://ilovegpu.vercel.app/)** - discover and explore graphics cards from all major manufacturers<br/>
+🧹 **[next-cleaner](https://www.npmjs.com/package/next-cleaner)** - clean up fresh Next.js projects to remove boilerplate files and start fresh
