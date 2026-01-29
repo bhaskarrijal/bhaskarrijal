@@ -23,6 +23,6 @@
 📋 **[Paste IU](https://paste.bhaskarrijal.me)** - copy images from your clipboard and paste them directly into your wordpress media library<br/>
 🛠️ **[Mistri](https://mistri.linkbinary.com.np)** - centralized digital platform for connecting homeowners with certified service professionals<br/>
 🌏 **[Timezone Translator](https://tt.bhaskarrijal.me)** - quickly convert times across any timezones<br/>
-🔨 **[JSON Utils](https://github.com/bhaskarrijal/json-utils)** - few utility scripts for projects with massive number of JSON files
-🌕 **[LunaQuake](http://lunaquake.vercel.app)** - view the moon and study or learn about the moon's seismic history
-🖥️ **[ilovegpu](https://ilovegpu.vercel.app/)** - discover and explore graphics cards from all major manufacturers
+🔨 **[JSON Utils](https://github.com/bhaskarrijal/json-utils)** - few utility scripts for projects with massive number of JSON files<br/>
+🌕 **[LunaQuake](http://lunaquake.vercel.app)** - view the moon and study or learn about the moon's seismic history<br/>
+🖥️ **[ilovegpu](https://ilovegpu.vercel.app/)** - discover and explore graphics cards from all major manufacturers<br/>
