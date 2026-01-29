@@ -19,4 +19,8 @@
 🛒 **[QuickPasal](https://quickpasal.com)** - launch ecom websites from your mobile in 2 minutes<br/>
 ✍️ **[Signx](https://signx.bhaskarrijal.me)** - create and export your email signature<br/>
 🧵 **[Silo TMS](https://silo.linkbinary.com.np)** - tailor operating system for next-gen tailorshops<br/>
-💳 **[Gurkha Loyalty](https://gurkhaloyalty.com/)** - personalized rewards and loyalty platform
+💳 **[Gurkha Loyalty](https://gurkhaloyalty.com)** - personalized rewards and loyalty platform<br/>
+📋 **[Paste IU](https://paste.bhaskarrijal.me)** - copy images from your clipboard and paste them directly into your wordpress media library<br/>
+🛠️ **[Mistri](https://mistri.linkbinary.com.np)** - centralized digital platform for connecting homeowners with certified service professionals<br/>
+🌏 **[Timezone Translator](https://tt.bhaskarrijal.me)** - quickly convert times across any timezones<br/>
+🔨 **[JSON Utils](https://github.com/bhaskarrijal/json-utils)** - few utility scripts for projects with massive number of JSON files
