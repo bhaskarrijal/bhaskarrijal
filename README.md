@@ -25,5 +25,6 @@
 🌏 **[Timezone Translator](https://tt.bhaskarrijal.me)** - quickly convert times across any timezones<br/>
 🔨 **[JSON Utils](https://github.com/bhaskarrijal/json-utils)** - few utility scripts for projects with massive number of JSON files<br/>
 🌕 **[LunaQuake](http://lunaquake.vercel.app)** - view the moon and study or learn about the moon's seismic history<br/>
-🖥️ **[The GPU Catalog](https://thegpucatalog.bhaskarrijal.me/)** - discover and explore graphics cards from all major manufacturers<br/>
-🧹 **[next-cleaner](https://www.npmjs.com/package/next-cleaner)** - clean up fresh Next.js projects to remove boilerplate files and start fresh
+🖥️ **[The GPU Catalog](https://thegpucatalog.bhaskarrijal.me)** - discover and explore graphics cards from all major manufacturers<br/>
+🧹 **[next-cleaner](https://www.npmjs.com/package/next-cleaner)** - clean up fresh Next.js projects to remove boilerplate files and start fresh<br/>
+🎓 **[Prime Siksha](https://pspreview.linkbinary.com.np)** - platform for medical students and educators to perform online test sessions
