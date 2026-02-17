@@ -28,3 +28,4 @@
 🖥️ **[The GPU Catalog](https://thegpucatalog.bhaskarrijal.me)** - discover and explore graphics cards from all major manufacturers<br/>
 🧹 **[next-cleaner](https://www.npmjs.com/package/next-cleaner)** - clean up fresh Next.js projects to remove boilerplate files and start fresh<br/>
 🎓 **[Prime Siksha](https://pspreview.linkbinary.com.np)** - platform for medical students and educators to perform online test sessions
+🌐 **[Easy Emoji](https://github.com/bhaskarrijal/easyemoji)** - mac utility app to easily switch between different keyboard languages and native emoji panel
